@@ -18,3 +18,9 @@ sudo apt install code -y
 
 #install git
 sudo apt install git -y
+
+#install nodejs
+sudo apt update
+sudo apt upgrade -y
+sudo apt install nodejs -y
+sudo apt install npm -y
