@@ -24,3 +24,5 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt install nodejs -y
 sudo apt install npm -y
+sudo npm install -g n
+sudo n install lts
