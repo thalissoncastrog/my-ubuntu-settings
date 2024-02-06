@@ -26,3 +26,14 @@ sudo apt install nodejs -y
 sudo apt install npm -y
 sudo npm install -g n
 sudo n install lts
+
+#install DB Browser for SQLite
+sudo apt update
+sudo apt install sqlitebrowser -y
+
+#Install Postman
+sudo apt update
+sudo apt install snapd -y
+sudo snap install postman -y
+
+
