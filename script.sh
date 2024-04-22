@@ -36,4 +36,8 @@ sudo apt update
 sudo apt install snapd -y
 sudo snap install postman -y
 
+#Install Docker
+sudo apt install curl -y
+curl -fsSL https://get.docker.com/ | bash
+
 
