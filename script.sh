@@ -159,6 +159,12 @@ sudo apt install pgadmin4-desktop -y
 sudo apt install pgadmin4-web -y
 sudo /usr/pgadmin4/bin/setup-web.sh
 
+#Install .NET 8.0
+sudo apt update
+sudo apt-get install -y dotnet-sdk-8.0
+sudo apt-get install -y aspnetcore-runtime-8.0
+
+
 
 
 
